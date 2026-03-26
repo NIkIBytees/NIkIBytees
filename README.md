@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Side Project**
+ 🔭 I’m currently working on a **Side Project**
  
  🌱 I’m currently learning **Docker, Java, C++**
 
