@@ -15,12 +15,6 @@
 ⚡ Fun fact **Some of the asteroids in The Empire Strikes Back asteroid chase scene are actually painted potatoes, along with a production designer's sneaker.**
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:nikbuchauer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
 
  <hr/>
  
