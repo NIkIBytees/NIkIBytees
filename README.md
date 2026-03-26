@@ -12,7 +12,7 @@
 
 💬 Ask me about **Python**
 
-⚡ Fun fact **Some of the asteroids in The Empire Strikes Back asteroid chase scene are actually painted potatoes, along with a production designer's sneaker.**
+⚡ Fun fact: **Some of the asteroids in The Empire Strikes Back asteroid chase scene are actually painted potatoes, along with a production designer's sneaker.**
 
  </div>
 
